@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/tarekmunshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarekmunshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tarek-munshi-19674322a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek-munshi-19674322a" height="30" width="40" /></a>
-<a href="https://codesandbox.com/tarek_munshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tarek_munshi" height="30" width="40" /></a>
+<a href="https://dev.to/tarekmunshi" target="blank" style='margin-right:'5px'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarekmunshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tarek-munshi-19674322a" target="blank" style='margin-right:'5px'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek-munshi-19674322a" height="30" width="40" /></a>
+<a href="https://codesandbox.com/tarek_munshi" target="blank" style='margin-right:'5px'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tarek_munshi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
