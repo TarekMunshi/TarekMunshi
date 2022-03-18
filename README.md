@@ -23,7 +23,8 @@
   <div>
      <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekmunshi&label=Profile%20views&color=0e75b6&style=flat" alt="tarekmunshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarekmunshi" alt="tarekmunshi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarekmunshi&theme=radical" alt="tarekmunshi" /></a> </p>
+    
   </div>
  
 </div>
