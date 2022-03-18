@@ -55,10 +55,10 @@ Reliable Intern studying Computer Science seeks an internship opportunity to exp
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tarekmunshi&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tarekmunshi&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmunshi&layout=compact&theme=dracula&border=false)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekmunshi&show_icons=true&locale=en" alt="tarekmunshi" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmunshi&layout=compact&theme=radical&border=false)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekmunshi&show_icons=true&theme=radical" alt="tarekmunshi" /></p>
 
 
 
