@@ -29,7 +29,7 @@
  
 </div>
 
-## :man_technologist: About Me : <a href="https://tarek-munshi.vercel.app/">Portfolio</a>
+## :man_technologist: About Me : <a href="https://tarek-munshi.vercel.app/" target='_blank'>Portfolio</a>
 
 Reliable Intern studying Computer Science seeks an internship opportunity to expand skills and gain valuable real-world experience.
 
