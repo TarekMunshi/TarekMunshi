@@ -31,7 +31,7 @@
 
 ## :man_technologist: About Me : <a href="https://tarek-munshi.vercel.app/" target='_blank'>Portfolio</a>
 
-Reliable Intern studying Computer Science seeks an internship opportunity to expand skills and gain valuable real-world experience.
+My GitHub profile showcases my expertise as a MERN stack developer, with a focus on building scalable and efficient applications that meet business needs. As a developer, I aim to leverage my skills and experience to deliver high-quality solutions that solve real-world problems and drive business success. Through my contributions to open source projects and collaboration with other developers, I strive to stay at the forefront of emerging technologies and best practices in the MERN stack. My ultimate goal is to make a positive impact in the tech industry and help organizations achieve their goals through innovative software solutions.
 
 <h2>I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.</h2>
 
