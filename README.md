@@ -4,10 +4,10 @@
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=tarekmunshi&style=flat-square&color=blue" alt="Github Badge"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/tarek-munshi-19674322a/">
+    <a href="https://www.linkedin.com/in/tarekmunshi/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="https://twitter.com/ysgtdenoy">
+    <a href="https://twitter.com/TarekMunshi0">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
     </a>
     <a href="https://dev.to/tarekmunshi">
