@@ -31,7 +31,7 @@
 
 ## :man_technologist: About Me : <a href="https://tarek-munshi.vercel.app/" target='_blank'>Portfolio</a>
 
-My GitHub profile showcases my expertise as a MERN stack developer, with a focus on building scalable and efficient applications that meet business needs. As a developer, I aim to leverage my skills and experience to deliver high-quality solutions that solve real-world problems and drive business success. Through my contributions to open source projects and collaboration with other developers, I strive to stay at the forefront of emerging technologies and best practices in the MERN stack. My ultimate goal is to make a positive impact in the tech industry and help organizations achieve their goals through innovative software solutions.
+I am a passionate and results-driven full stack developer with a strong foundation in both front-end and back-end technologies. My goal is to leverage my expertise in web development to create innovative and user-centric digital solutions that drive business success. I thrive in collaborative environments, where I can contribute my problem-solving skills and creativity to deliver high-quality software products. With a commitment to staying up-to-date with the latest industry trends and technologies, I aim to continuously enhance my skills and provide valuable contributions to projects that challenge and inspire me.
 
 <h2>I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.</h2>
 
