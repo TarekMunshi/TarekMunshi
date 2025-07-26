@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140"/>
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=tarekmunshi&style=flat-square&color=blue" alt="Github Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=tarekmunshi&style=flat-square&color=blue" alt="Profile Views"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/tarekmunshi/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -13,43 +13,66 @@
     <a href="https://dev.to/tarekmunshi">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge" />
     </a>
+    <a href="mailto:tarekmunshi.13@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
   </div>
-  
+
   <h1>
-    hey there
+    Hey there 👋
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  
-  <div>
-     <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekmunshi&label=Profile%20views&color=0e75b6&style=flat" alt="tarekmunshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarekmunshi&theme=radical" alt="tarekmunshi" /></a> </p>
-    
-  </div>
- 
+  <p>I’m <strong>Tarek Munshi</strong> – a software developer passionate about building scalable and user-focused digital products.</p>
 </div>
-
-## :man_technologist: About Me : <a href="https://tarek-munshi.vercel.app/" target='_blank'>Portfolio</a>
-
-I am a passionate and results-driven full stack developer with a strong foundation in both front-end and back-end technologies. My goal is to leverage my expertise in web development to create innovative and user-centric digital solutions that drive business success. I thrive in collaborative environments, where I can contribute my problem-solving skills and creativity to deliver high-quality software products. With a commitment to staying up-to-date with the latest industry trends and technologies, I aim to continuously enhance my skills and provide valuable contributions to projects that challenge and inspire me.
-
-<h2>I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.</h2>
-
-- :telescope: I’m working as a React Developer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Skills.
-
-- :zap: In my free time, I work on new projects and read tech articles.
-
-- :mailbox: How to reach me: <a href="mailto:jpjustin.jj@gmail.com">Send Mail</a> | <a href="https://drive.google.com/file/d/10Zaisg7M8-olKJse8DnjBbBQ_EyBpUXx/view?usp=sharing">Resume</a>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 👨‍💻 About Me
 
-<div>
-  <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-</div>
+🔧 I’m a **Full-Stack JavaScript Developer** with 2.5+ years of experience specializing in modern web development using **React**, **Next.js**, **Node.js**, **MongoDB**, and **Strapi**.
+
+🌐 I love solving real-world problems with clean architecture, intuitive interfaces, and optimized performance. I enjoy both frontend design thinking and backend logic structuring.
+
+🌍 Based in **Bangladesh**, working with companies and clients globally.
+
+---
+
+### 🧠 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=white)
+
+---
+
+## 🚀 Notable Projects
+
+- 🪑 **[Abacus Tables](https://abacustables.co.uk/):** Next.js + Sanity CMS based eCommerce furniture store optimized for performance and responsive UI.
+- 💡 **[Bock Lighting](https://www.bocklighting.com/):** Product builder platform with real-time search using Algolia and React Context.
+- 🎸 **[Stringjoy](https://stringjoy.com/):** Gatsby + Shopify-based guitar string shop with blazing-fast load time and dynamic inventory sync.
+
+---
+
+## 📫 Reach Me
+📧 Email: [tarekmunshi.13@gmail.com](mailto:tarekmunshi.13@gmail.com)  
+🌐 Portfolio: [tarek-munshi.vercel.app](https://tarek-munshi.vercel.app/)  
+📄 [Download My Resume](https://drive.google.com/file/d/10Zaisg7M8-olKJse8DnjBbBQ_EyBpUXx/view?usp=sharing)
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tarekmunshi&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</p>
 
 ---
 
